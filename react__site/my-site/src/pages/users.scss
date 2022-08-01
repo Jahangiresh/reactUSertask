@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.users {
+  &__container {
+    &__row {
+      justify-content: space-between;
+      // flex-wrap: wrap;
+    }
+  }
+}

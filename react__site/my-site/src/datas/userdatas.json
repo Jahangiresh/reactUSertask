@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jahangir",
+      "surname": "Shirinov",
+      "email": "jahangiresh@code.edu.az",
+      "image": "https://lh3.googleusercontent.com/7CpwjgZVvuH-hXL7gx4ksXWyGtp6bLZ-Yns5yZHCtgAtgynxerv_-s4Fr4DyKrdFOLmpEqrvmZtkKDHko0j-BfnUvXo5j06WUn38mQ=w600"
+    },
+    {
+      "id": 2,
+      "name": "Ali",
+      "surname": "Nasrullayev",
+      "email": "alichn@code.edu.az",
+      "image": "https://lh3.googleusercontent.com/Dx8rcRlqDmNoiuFhnqt9aw2Hip_vr-EHnRA80YTaTksbTTSuoUBpcsSV4SEHsTEm6MAtQ56UOypBUencq5RLmErglOtzgMgt2aKdhw=w1400-k"
+    },
+    {
+      "id": 3,
+      "name": "Gunel",
+      "surname": "Ahmedova",
+      "email": "gunelaa@code.edu.az",
+      "image": "https://www.arweave.net/B_4iMgSs7B4T9ZrAP7l7eUxUmcI3YHIsENIsTfJaJe8?ext=jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mubariz",
+      "surname": "Mammad",
+      "email": "mubarizm@code.edu.az",
+      "image": "https://static.nftgo.io/asset/metadata/image/12e87bb97a48c0123953ccea367d4ddb8b3767c4e2aa0b5f2c37b805825bfcfa"
+    },
+    {
+      "id": 5,
+      "name": "Qasim",
+      "surname": "Jafar",
+      "email": "mubarizm@code.edu.az",
+      "image": "https://pbs.twimg.com/media/FSDfARGaIAAx8Bb?format=jpg&name=4096x4096"
+    },
+    {
+      "id": 6,
+      "name": "Rasta",
+      "surname": "Monk",
+      "email": "mubarizm@code.edu.az",
+      "image": "https://pbs.twimg.com/media/FIP7xxQXsAAOsIR.jpg:large"
+    }
+  ]
+}
