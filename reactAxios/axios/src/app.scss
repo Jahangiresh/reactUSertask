@@ -1,0 +1,50 @@
+.x {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: rosybrown;
+  font-weight: 600;
+  cursor: pointer;
+}
+.active {
+  height: 0;
+  visibility: hidden;
+  opacity: 0;
+}
+.add__prod {
+  width: 100%;
+  position: fixed;
+  top: 90px;
+  background: yellowgreen;
+
+  &__container {
+    &__row {
+      display: flex;
+      justify-content: center;
+      .file {
+        display: flex;
+        justify-content: space-between;
+      }
+      &__inputs {
+        display: flex;
+        flex-direction: column;
+        .add__prod__inputs {
+          padding: 20px;
+          border: none;
+          outline: none;
+          background: whitesmoke;
+          margin-top: 50px;
+        }
+        button {
+          margin: 50px 0;
+          padding: 20px;
+          border: none;
+          transition: 200ms;
+          &:hover {
+            background: yellowgreen;
+          }
+        }
+      }
+    }
+  }
+}

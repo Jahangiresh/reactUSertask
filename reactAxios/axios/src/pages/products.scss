@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.products {
+  &__container {
+    &__row {
+      padding-top: 60px;
+      justify-content: space-between;
+    }
+  }
+}

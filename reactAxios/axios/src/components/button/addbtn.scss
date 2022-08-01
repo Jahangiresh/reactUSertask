@@ -1,0 +1,12 @@
+.my__button {
+  button {
+    width: 100%;
+    margin: 50px 0;
+    padding: 20px;
+    border: none;
+    transition: 200ms;
+    &:hover {
+      background: yellowgreen;
+    }
+  }
+}
